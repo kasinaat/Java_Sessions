@@ -3,7 +3,7 @@ class Solution {
         System.out.println("Hello Java Batchmate " + args[0]);
     }
 }
-//v1.2
+//v1.
 
 //Version Control Systems - VCS
 

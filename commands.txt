@@ -1,0 +1,22 @@
+git init - To create a new repository
+
+git branch <branch_name> - to create a new branch
+
+git --version - to get the version of the installed Git in the PC.
+
+git add <filename> - to track a particular file in git.
+git add -A --------- to track all the files under the repository.
+
+git commit -m "<message>" - to take a snapshot of the current state of the project.
+
+git checkout <branch_name> - to swtich between the working branch/revision.
+
+git log - to list the recent commits.
+
+git status - this will tell you the current state of the repository.
+
+git remote add <name> - to add the remote repository.
+
+git push -u <remote_name> <branch_name> - to push the recent changes to the remote cloud repository
+
+git pull <remote_name> <branch_name> - to get the recent changes done in the remote repository.
